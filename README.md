@@ -189,6 +189,8 @@ export default class GridViewSample extends Component {
 - **`loadMoreHandler`** _(Function)_ - The handler when load more.
 - **`responseDataHandler`** _(Function)_ - The handler of response data, default is return raw data.
 - **`column`** _(Integer)_ - The column of gridview, when greater than 1, it is gridview, otherwise listview, default is 1.
+- **`showsHorizontalScrollIndicator`** _(Bool)_ - Whether show the horizontal scroll indicator.
+- **`showsVerticalScrollIndicator`** _(Bool)_ - Whether show the vertical scroll indicator.
 
 ### Contribution
 
